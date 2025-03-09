@@ -2,7 +2,6 @@
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 import { useCart } from "@/context/CartContext";
 import { Product } from "@/types";
 import { ArrowLeftIcon, ShoppingBagIcon } from "@heroicons/react/24/outline";
@@ -18,7 +17,6 @@ export default function ProductDetails({ productId, onBack }: ProductDetailsProp
   const [loading, setLoading] = useState(true);
   const [addedToCart, setAddedToCart] = useState(false);
   const [quantity, setQuantity] = useState(1);
-  const router = useRouter();
   const { addToCart, cart } = useCart();
 
   useEffect(() => {
