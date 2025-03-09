@@ -1,0 +1,198 @@
+[
+    {
+        "id": "1",
+        "name": "Premium Wireless Headphones",
+        "description": "High-quality wireless headphones with noise cancellation and premium sound quality. Perfect for music lovers and professionals.",
+        "price": 299.99,
+        "image": "/headphones.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Smart Watch Pro",
+        "description": "Advanced smartwatch with health tracking, notifications, and long battery life. Stay connected and monitor your fitness goals.",
+        "price": 199.99,
+        "image": "/smartwatch.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Signature Leather Jacket",
+        "description": "A stylish, high-quality leather jacket that complements any outfit. Perfect for adding a bold statement to your wardrobe.",
+        "price": 349.99,
+        "image": "/leather_jacket.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Customizable Sneakers",
+        "description": "Design your own pair of sneakers with personalized colors, patterns, and styles. Make them truly yours.",
+        "price": 149.99,
+        "image": "/custom_sneakers.avif"
+    },
+    {
+        "id": "5",
+        "name": "Classic Sunglasses",
+        "description": "Timeless sunglasses with a modern twist. Protect your eyes in style, perfect for any occasion.",
+        "price": 129.99,
+        "image": "/sunglasses.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Luxury Watch Collection",
+        "description": "A selection of high-end watches that combine elegance and precision. Make a statement with every glance.",
+        "price": 799.99,
+        "image": "/luxury_watch.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Stylish Backpack",
+        "description": "A fashionable yet functional backpack that fits all your essentials and matches your personal style.",
+        "price": 89.99,
+        "image": "/backpack.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Designer Handbag",
+        "description": "A luxury designer handbag that elevates your everyday look and complements your unique style.",
+        "price": 599.99,
+        "image": "/handbag.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Personalized Jewelry Set",
+        "description": "A custom-made jewelry set that lets you create pieces reflecting your individual taste and personality.",
+        "price": 249.99,
+        "image": "/jewelry_set.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Trendy Denim Jacket",
+        "description": "A versatile denim jacket that pairs with any outfit, adding an effortlessly cool touch to your wardrobe.",
+        "price": 89.99,
+        "image": "/denim_jacket.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Chic Silk Scarf",
+        "description": "A luxurious silk scarf that can be styled in multiple ways to elevate any outfit.",
+        "price": 59.99,
+        "image": "/silk_scarf.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Stylish Ankle Boots",
+        "description": "A pair of trendy ankle boots that combine comfort and style, perfect for any season.",
+        "price": 149.99,
+        "image": "/ankle_boots.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Boho-Inspired Maxi Dress",
+        "description": "A flowy, boho-inspired maxi dress with a unique design that exudes carefree elegance.",
+        "price": 119.99,
+        "image": "/boho_dress.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Tailored Blazer",
+        "description": "A sharp, tailored blazer that adds sophistication and polish to any outfit.",
+        "price": 179.99,
+        "image": "/blazer.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Convertible Crossbody Bag",
+        "description": "A versatile crossbody bag that can be converted into a clutch, perfect for both casual and formal settings.",
+        "price": 89.99,
+        "image": "/crossbody_bag.jpg"
+    },
+    {
+        "id": "16",
+        "name": "Luxury Cashmere Sweater",
+        "description": "A soft and cozy cashmere sweater that adds a touch of luxury to your wardrobe.",
+        "price": 249.99,
+        "image": "/cashmere_sweater.avif"
+    },
+    {
+        "id": "17",
+        "name": "Slim-Fit Chinos",
+        "description": "Stylish and comfortable slim-fit chinos that can be dressed up or down for any occasion.",
+        "price": 89.99,
+        "image": "/slim_chinos.jpg"
+    },
+    {
+        "id": "18",
+        "name": "Chunky Knit Sweater",
+        "description": "A cozy and oversized chunky knit sweater for those chilly days while still looking chic.",
+        "price": 99.99,
+        "image": "/chunky_sweater.jpg"
+    },
+    {
+        "id": "19",
+        "name": "Eco-Friendly Tote Bag",
+        "description": "A stylish and eco-friendly tote bag made from sustainable materials. Perfect for carrying your daily essentials.",
+        "price": 49.99,
+        "image": "/tote_bag.jpg"
+    },
+    {
+        "id": "20",
+        "name": "Faux Fur Coat",
+        "description": "A glamorous faux fur coat that adds a bold and luxurious touch to any winter wardrobe.",
+        "price": 249.99,
+        "image": "/faux_fur_coat.avif"
+    },
+    {
+        "id": "21",
+        "name": "Statement Earrings",
+        "description": "Bold and elegant earrings that instantly elevate your look, no matter the occasion.",
+        "price": 79.99,
+        "image": "/statement_earrings.jpg"
+    },
+    {
+        "id": "22",
+        "name": "Casual Polo Shirt",
+        "description": "A classic polo shirt that offers both comfort and style, perfect for a laid-back yet polished look.",
+        "price": 49.99,
+        "image": "/polo_shirt.avif"
+    },
+    {
+        "id": "23",
+        "name": "Vegan Leather Tote",
+        "description": "A stylish, cruelty-free vegan leather tote bag for everyday use, combining fashion with ethics.",
+        "price": 79.99,
+        "image": "/vegan_tote.jpg"
+    },
+    {
+        "id": "24",
+        "name": "High-Waisted Trousers",
+        "description": "Elegant high-waisted trousers that create a flattering silhouette, perfect for office or casual wear.",
+        "price": 99.99,
+        "image": "/high_waisted_trousers.jpg"
+    },
+    {
+        "id": "25",
+        "name": "Embroidered Bomber Jacket",
+        "description": "A trendy bomber jacket with intricate embroidery that adds a creative flair to your wardrobe.",
+        "price": 129.99,
+        "image": "/embroidered_bomber.jpg"
+    },
+    {
+        "id": "26",
+        "name": "Graphic Tees Collection",
+        "description": "A collection of stylish graphic tees that let you express your personality and style.",
+        "price": 29.99,
+        "image": "/graphic_tees.jpg"
+    },
+    {
+        "id": "27",
+        "name": "Silk Sleepwear Set",
+        "description": "A luxurious silk sleepwear set that combines comfort and elegance for your nighttime routine.",
+        "price": 159.99,
+        "image": "/silk_sleepwear.jpg"
+    },
+    {
+        "id": "28",
+        "name": "Woven Straw Hat",
+        "description": "A stylish woven straw hat that adds a touch of sophistication to your sunny-day looks.",
+        "price": 39.99,
+        "image": "/straw_hat.jpg"
+    }
+]
